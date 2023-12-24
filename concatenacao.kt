@@ -5,5 +5,5 @@ fun main(args: Array<String>) {
     val tecnico1 = "Informática para internet"
     val tecnico2 = "Eletroeletrônica"
 
-    println("$ chamo $nome sou formando em '$graduacao' e possuo cursos técnico de '$tecnico1' e '$tecnico2'")
+    println("Olá chamo $nome sou formando em '$graduacao' e possuo cursos técnico de '$tecnico1' e '$tecnico2'")
 }
