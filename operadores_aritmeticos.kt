@@ -15,5 +15,5 @@ fun main(args: Array<String>) {
     println("---")
     println(++numero1)      // ultilização do operador de incremento '++'
     println("---")
-    println(--numero2)      // ultilização do operador de decremento '--'
+    println(--numero2)      // ultilização do operador de decremento  '--'
 }
