@@ -16,6 +16,6 @@ fun main(args: Array<String>) {
     println("estou no final do ano: " + ano);
     println("sequênçia de numeros inteiros em ordem decrescente ultilizando o tipo 'long': " + numero_long);
     println("O valor aleatório 'float' é: " + dinheiro);
-}
+} 
 
 
